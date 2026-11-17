@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 
-#gameBoard {
+#gameBoard { 
   background-color: blueviolet;
   display: flex;
   justify-content: center;
